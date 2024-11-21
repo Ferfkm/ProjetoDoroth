@@ -42,6 +42,9 @@ body{
     border-radius: 0.6rem;
     font-size: 1vw;
     backface-visibility: hidden;
+   
+}
+h3{
     transform-style: preserve-3d;
 }
 

@@ -44,9 +44,7 @@ body{
     backface-visibility: hidden;
    
 }
-h3{
-    transform-style: preserve-3d;
-}
+
 
 .cartao__conteudo p{
     margin-top: 1rem;
